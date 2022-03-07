@@ -141,5 +141,5 @@ class Workers():
         
         def Donate():
                 response = QMessageBox()
-                response.setText("pix: pedrolarrieu@gmail.com")
+                response.setText("pix: pedrolarrieudev@gmail.com")
                 response.exec_()
